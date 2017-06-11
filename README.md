@@ -200,7 +200,7 @@ So, I think there are several opportunities for cleaning and validation of the d
 * `audit_bank.py` : audit bank and update their names
 * `data.py` : build CSV files from OSM and also parse, clean and shape data
 * `tags.py` : find unique tags in the data
-* `query.py` : different queries about the database using SQL
+* `query.py` : Create database and do different queries about the database using SQL
 * `report.pdf` : pdf of this document
 * `sample.py` : extract sample data from the OSM file
 * `tags.py` : count multiple patterns in the tags
