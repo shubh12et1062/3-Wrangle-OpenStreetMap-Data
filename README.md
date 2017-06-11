@@ -50,13 +50,13 @@ The main problem we encountered in the dataset is the street name inconsistencie
 #3. Data Overview
 ### File sizes:
 
-* `ahmedabad_india.osm: 109.2 MB`
-* `nodes_csv: 43.4 MB`
-* `nodes_tags.csv: 163.4 KB`
-* `ways_csv: 4.6 MB`
-* `ways_nodes.csv: 14.7 MB`
-* `ways_tags.csv: 2.8 MB`
-* `ahmedabad.db: 78.5 MB`
+* `sample3.osm: 41 MB`
+* `nodes_csv: 16.4 MB`
+* `nodes_tags.csv: 204 KB`
+* `ways_csv: 1.67 MB`
+* `ways_nodes.csv: 5.63 MB`
+* `ways_tags.csv: 1.05 MB`
+* `mumbai.db: 28.7 MB`
 
 ###Number of nodes:
 ``` python
