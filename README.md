@@ -199,7 +199,6 @@ So, I think there are several opportunities for cleaning and validation of the d
 * `audit_street.py` : audit street, city and update their names
 * `audit_bank.py` : audit bank and update their names
 * `data.py` : build CSV files from OSM and also parse, clean and shape data
-* `database.py` : create database of the CSV files
 * `tags.py` : find unique tags in the data
 * `query.py` : different queries about the database using SQL
 * `report.pdf` : pdf of this document
