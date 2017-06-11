@@ -11,16 +11,16 @@
 # 1. Data Audit
 ###Unique Tags
 Looking at the XML file, I found that it uses different types of tags. So, I parse the Mumbai,India dataset using ElementTree and count number of the unique tags.
-`mapparser.py` is used to count the numbers of unique tags.
-
-'member': 1195,
- 'nd': 234500,
- 'node': 204412,
- 'osm': 1,
- 'relation': 399,
- 'tag': 38809,
- 'way': 28327
-
+`tags.py` is used to count the numbers of unique tags.
+```
+**'member': 1195,
+**'nd': 234500,
+**'node': 204412,
+**'osm': 1,
+**'relation': 399,
+**'tag': 38809,
+**'way': 28327
+```
 ### Patterns in the Tags
 The `"k"` value of each tag contain different patterns. Using `tags.py`, I created  3 regular expressions to check for certain patterns in the tags.
 I have counted each of four tag categories.
