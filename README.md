@@ -132,10 +132,10 @@ LIMIT 10;
 ('place_of_worship', 22),
 ('atm', 18),
 ('cafe', 18),
-('school', 17)
+('school', 17),
 ('toilets', 16),
 ('fast_food', 15),
-('hospital', 14)
+('hospital', 14),
 ('fuel', 10)
 ```
 
