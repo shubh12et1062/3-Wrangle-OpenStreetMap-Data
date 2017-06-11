@@ -47,7 +47,7 @@ The main problem we encountered in the dataset is the street name inconsistencie
     * `chembur -> Chembur`
 ```
 
-#3. Data Overview
+# 3. Data Overview
 ### File sizes:
 
 * `sample3.osm: 41 MB`
