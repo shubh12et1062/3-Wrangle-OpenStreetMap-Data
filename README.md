@@ -50,7 +50,7 @@ The main problem we encountered in the dataset is the street name inconsistencie
 # 3. Data Overview
 ### File sizes:
 
-* `sample3.osm: 41 MB`
+* `sample3.osm: 74.1 MB`
 * `nodes_csv: 16.4 MB`
 * `nodes_tags.csv: 204 KB`
 * `ways_csv: 1.67 MB`
