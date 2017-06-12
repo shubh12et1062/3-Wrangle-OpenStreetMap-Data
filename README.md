@@ -189,7 +189,7 @@ So, I think there are several opportunities for cleaning and validation of the d
 * We can make some rules or patterns to input data which users follow everytime to input their data. This will also restrict users input in their native language.
 * We can develope script or bot to clean the data regularly or certain period.
 
-### Benefits of implementing suggestions
+#### Benefits of implementing suggestions
 * If above mentioned suggestions are followed then there will be little or no irregularities in the data. 
 * It will be very easy to further process any data and directly feed into machines.
 
