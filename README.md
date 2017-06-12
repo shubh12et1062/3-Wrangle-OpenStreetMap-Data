@@ -189,9 +189,14 @@ So, I think there are several opportunities for cleaning and validation of the d
 * We can make some rules or patterns to input data which users follow everytime to input their data. This will also restrict users input in their native language.
 * We can develope script or bot to clean the data regularly or certain period.
 
+### Benefits of implementing suggestions
+* If above mentioned suggestions are followed then there will be little or no irregularities in the data. 
+* It will be very easy to further process any data and directly feed into machines.
+
 #### More information
 * The tourists or even the city people search map to see the basic amenities provided in the city or what are the popular places and attractions in the city or near outside the city. So, the users must be motivated to also provide these informations in the map.
 * If we can provide these informations then there are more chances to increase views on the map because many people directly enter the famous name on the map.
+
 
 # Files
 * `README.md` : this file
